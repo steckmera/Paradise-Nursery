@@ -4,7 +4,7 @@ const products = [
     name: 'Aloe Vera',
     price: 12.5,
     category: 'Suculentas',
-    image: './Paradise-Nursery/src/assets/aloe.jpg'
+    image: 'https://github.com/steckmera/Paradise-Nursery/tree/main/src/assets/aloe.jpg'
   },
   {
     id: 'p2',

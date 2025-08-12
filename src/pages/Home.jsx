@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Box
       minH="70vh"
-      bgImage={`url('/src/assets/monstera.jpg')`}
+      bgImage={`url('https://raw.githubusercontent.com/steckmera/Paradise-Nursery/main/src/assets/monstera.jpg')`}
       bgPos="center"
       bgSize="cover"
       display="flex"
